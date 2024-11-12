@@ -8,7 +8,7 @@ With **Bitcoin Blinks**, we've created a feature that transforms Bitcoin-based a
 
 ### Workflow:
 
-![Screenshot at Nov 08 10-13-43.png](https://i.ibb.co/B4xjR0h/Screenshot-at-Nov-12-12-55-46.png)
+![Screenshot at Nov 08 10-13-43.png](https://i.postimg.cc/Fs44DFLZ/Screenshot-at-Nov-12-13-42-51.png)
 
 **1. Bitcoin Action Execution:**
    - A user initiates a Bitcoin-related action (e.g., sending BTC, executing a smart contract, or interacting with a Bitcoin Layer 2 network). This action is captured via the integrated Bitcoin transaction or smart contract interface.
